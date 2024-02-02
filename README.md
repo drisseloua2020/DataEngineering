@@ -33,7 +33,7 @@ Architecture         |  Application UI/UX
 | Microservice                                         | Description                                                                           | Technologies Used                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------|
 | [Search Microservice](search-microservice/README.md) | Enables seach functionality such as auto complete, typeahead, faceted search features | A proxy to ElasticSearch, leverages Node |
-| [Search Microservice](ai-microservice/README.md)     | Enables AI machine learning                                                           | PyTorch                                  |
+| [AI Microservice](ai-microservice/README.md)     | Enables AI machine learning                                                           | PyTorch                                  |
 
 ## Folder Structure
 ```bash
