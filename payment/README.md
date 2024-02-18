@@ -1,1 +1,0 @@
-# Integration module to payment solution
